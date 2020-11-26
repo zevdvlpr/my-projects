@@ -19,7 +19,13 @@ So far I have developed many things. I must list them here in this repository to
 ## Projects I'm currently working on
 
 - [Animeline](https://github.com/zevdvlpr/animeline)
-- [Never Winter](https://github.com/zevdvlpr/never-winter)
+- Never Winter
+  - [Api](https://github.com/zevdvlpr/never-winter-api)
+  - [Bot](https://github.com/zevdvlpr/never-winter-bot)
+  - [Web](https://github.com/zevdvlpr/never-winter-web)
+- Tatsumaki
+  - [Api](https://github.com/zevdvlpr/tatsumaki-api)  
+  - [Web](https://github.com/zevdvlpr/tatsumaki-web)
 - [Drocsid](https://github.com/zevdvlpr/drocsid)
 - [zevdvlpr](https://github.com/zevdvlpr/zevdvlpr.ml)
 - [neck](https://github.com/zevdvlpr/neck)
