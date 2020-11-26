@@ -18,7 +18,10 @@ So far I have developed many things. I must list them here in this repository to
 
 ## Projects I'm currently working on
 
-- [Animeline](https://github.com/zevdvlpr/animeline)
+- Animeline
+  - [Api](https://github.com/zevdvlpr/animeline-api)
+  - [Bot](https://github.com/zevdvlpr/animeline-bot)
+  - [Web](https://github.com/zevdvlpr/animeline-web)
 - Never Winter
   - [Api](https://github.com/zevdvlpr/never-winter-api)
   - [Bot](https://github.com/zevdvlpr/never-winter-bot)
