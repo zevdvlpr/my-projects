@@ -22,6 +22,7 @@ So far I have developed many things. I must list them here in this repository to
   - [Api](https://github.com/zevdvlpr/animeline-api)
   - [Bot](https://github.com/zevdvlpr/animeline-bot)
   - [Web](https://github.com/zevdvlpr/animeline-web)
+  - [Mobile](https://github.com/zevdvlpr/animeline-mobile)
 - Never Winter
   - [Api](https://github.com/zevdvlpr/never-winter-api)
   - [Bot](https://github.com/zevdvlpr/never-winter-bot)
