@@ -28,8 +28,10 @@ So far I have developed many things. I must list them here in this repository to
   - [Discord Bot](https://github.com/zevdvlpr/never-winter-bot)
   - [Web](https://github.com/zevdvlpr/never-winter-web)
 - Tatsumaki
-  - [Api](https://github.com/zevdvlpr/tatsumaki-api)  
-  - [Web](https://github.com/zevdvlpr/tatsumaki-web)
+  - [Api (GraphQL)](https://github.com/tatsumaki/api-graphql)  
+  - [Discord BOt](https://github.com/tatsumaki/bot)
+  - [Dashboard](https://github.com/tatsumaki/dashboard)
+  - [Web](https://github.com/tatsumaki/web)
 - [Drocsid](https://github.com/zevdvlpr/drocsid)
 - [My Portfolio](https://github.com/zevdvlpr/zevdvlpr.ml)
 
