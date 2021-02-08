@@ -19,20 +19,19 @@ So far I have developed many things. I must list them here in this repository to
 ## Projects I'm currently working on
 
 - Animeline
-  - [Api](https://github.com/zevdvlpr/animeline-api)
-  - [Bot](https://github.com/zevdvlpr/animeline-bot)
-  - [Web](https://github.com/zevdvlpr/animeline-web)
-  - [Mobile](https://github.com/zevdvlpr/animeline-mobile)
+  - [Api (GraphQL)](https://github.com/animeline/api-graphql)
+  - [Discord Bot](https://github.com/animeline/discord-bot)
+  - [Web](https://github.com/animeline/web)
+  - [Mobile](https://github.com/animeline/mobile)
 - Never Winter
   - [Api](https://github.com/zevdvlpr/never-winter-api)
-  - [Bot](https://github.com/zevdvlpr/never-winter-bot)
+  - [Discord Bot](https://github.com/zevdvlpr/never-winter-bot)
   - [Web](https://github.com/zevdvlpr/never-winter-web)
 - Tatsumaki
   - [Api](https://github.com/zevdvlpr/tatsumaki-api)  
   - [Web](https://github.com/zevdvlpr/tatsumaki-web)
 - [Drocsid](https://github.com/zevdvlpr/drocsid)
-- [zevdvlpr](https://github.com/zevdvlpr/zevdvlpr.ml)
-- [neck](https://github.com/zevdvlpr/neck)
+- [My Portfolio](https://github.com/zevdvlpr/zevdvlpr.ml)
 
 ## Projects created in workshops
 
@@ -50,5 +49,6 @@ So far I have developed many things. I must list them here in this repository to
 
 ## Random projects
 
-- [EconomyBot Api](https://github.com/zevdvlpr/bot-economy-api)
-- [EconomyBot Web](https://github.com/zevdvlpr/bot-economy-web)
+- Economy Bot
+  - [Api](https://github.com/zevdvlpr/bot-economy-api)
+  - [Web](https://github.com/zevdvlpr/bot-economy-web)
