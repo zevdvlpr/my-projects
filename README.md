@@ -37,10 +37,11 @@ So far I have developed many things. I must list them here in this repository to
 
 ## Projects created in workshops
 
-- [Happy](https://github.com/zevdvlpr/happy)
-- [Ecoleta](https://github.com/zevdvlpr/ecoleta)
-- [Be The Hero](https://github.com/zevdvlpr/be-the-hero)
 - [Dev Radar](https://github.com/zevdvlpr/dev-radar)
+- [Be The Hero](https://github.com/zevdvlpr/be-the-hero)
+- [Ecoleta](https://github.com/zevdvlpr/ecoleta)
+- [Happy](https://github.com/zevdvlpr/happy)
+- [Move.it](https://github.com/zevdvlpr/moveit)
 
 ## Projects I don't work on anymore
 
